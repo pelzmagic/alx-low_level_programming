@@ -21,6 +21,7 @@ int main(void)
 				l = (counter2 % 10) + '0';
 				putchar(i);
 				putchar(j);
+				putchar(' ');
 				putchar(k);
 				putchar(l);
 
